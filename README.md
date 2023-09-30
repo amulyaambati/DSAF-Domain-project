@@ -1,4 +1,5 @@
 # DSAF-Domain-project
+#### For Deployed Report : [Click Here](https://amulyaambati.github.io/DSAF-Domain-project/)
 ### Title: Effects of geopoliticial events on currency exchange rates
 #### Description: The project aims at unveiling relationship between fluctuaions in currency exchange rate and geopoliticial events
 #### Table of Contents:
